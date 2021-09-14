@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @jkohrt7
-- 👀 I’m interested in a little bit of everything--I've made an app for processing dual-RNA Transcript data with R, worked on a cellular automaton for simulating HIV, 
-made a few video games with C# and Unity, and have done a bit of web development with the MERN stack.
-- 🌱 I’m currently learning how to work with Django and React. I still find MERN a bit complicated--I've only done a bit of JS in the past--and Django has (so far) been 
-more approachable.  
-- 📫 You can reach me at jkohrt7@gmail.com 
+## Hey There!
+
+- I'm Jared Kohrt, or @jkohrt7. I'm an amateur Web dev learning to use the MERN stack, Django, and AWS. I've got a wide range of interests, though I particularly enjoy developing with WebGL and exploring intersections between biology and computer science. I've even made a web app for visualizing dual-RNA transcript data, though the paper on it hasn't been published yet and won't appear here for a bit.
+
+- I'm currently enrolled in evening classes at UNC to pick up some more web-development skills while I look for a job. I'm a decent Java programmer, but web technologies are what I'm genuinely interested in using. I'll hopefully have more JS and Python projects to show off by the end of the year.
+
+📫 You can reach me at jkohrt7@gmail.com 
 
 <!---
 jkohrt7/jkohrt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
