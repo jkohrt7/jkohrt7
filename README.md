@@ -1,4 +1,5 @@
-## Hey There!
+![](https://komarev.com/ghpvc/?username=jkohrt7)
+## Hey There! 
 
 - I'm Jared Kohrt, or @jkohrt7. I'm an amateur Web dev learning to use the MERN stack, Django, and AWS. I've got a wide range of interests, though I particularly enjoy developing with WebGL and exploring intersections between biology and computer science. I've even made a web app for visualizing dual-RNA transcript data, though the paper on it hasn't been published yet and won't appear here for a bit.
 
@@ -10,3 +11,8 @@
 jkohrt7/jkohrt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=jkohrt7&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkohrt7&theme=blue-green)
+
